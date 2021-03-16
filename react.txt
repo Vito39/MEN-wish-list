@@ -1,0 +1,38 @@
+component  based  frontend framework reuseable
+
+state- not whole page reload but only changes reload
+
+framework has his own code you should use that
+
+libray you can use subsitute 
+
+
+
+// you can access event by event.target and values also
+
+//where but can be a button or getElementById()
+// but.addEventListener('click',()=>{alert("hello")});
+
+//arr.map(x=>{return x+1});
+//arr.map(x=>x+1);   it iterates and change give new value
+//arr.filter(x=>x>2); filter filter the element
+
+//local storage
+
+// try catch block use with asynchronus code
+
+// you have to tell server to proced request with url
+// by set header
+
+
+[
+//function display(name:coder,status)
+//{
+// by : you can rename your attribute
+//	console.log(coder);
+//	console.log(status)
+//}
+
+
+// display(person)  person is object that is destructer name as name,status
+] 
